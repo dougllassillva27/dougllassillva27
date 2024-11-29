@@ -4,9 +4,9 @@
     <a href="https://github.com/dougllassillva27">
         <img height="160em" src="https://github-readme-stats.vercel.app/api?username=dougllassillva27&show_icons=true&theme=dark" style="display: inline-block; margin-right: 10px;">
     </a>
-    <a href="https://github.com/dougllassillva27">
+<!--    <a href="https://github.com/dougllassillva27">
         <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dougllassillva27&theme=dark" style="display: inline-block;">
-    </a>
+    </a>-->
 </div>
 
         
