@@ -26,6 +26,6 @@
 <br>
 
 
-- 🔭 Atualmente trabalho como Analisa de Suporte Pleno
+- 🔭 Atualmente trabalho como Analista de Suporte Pleno
 - 🌱 Estou começando a estudar HTML, CSS e Javascript
 - 😄 Pronomes: Ele/dele
