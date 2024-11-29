@@ -1,5 +1,4 @@
-## Olá! Eu sou o Douglas Silva
-
+<h1>Olá! Eu sou o Douglas Silva</h1>
 <div>
     <a href="https://github.com/dougllassillva27">
         <img height="160em" src="https://github-readme-stats.vercel.app/api?username=dougllassillva27&show_icons=true&theme=dark" style="display: inline-block; margin-right: 10px;">
@@ -10,10 +9,9 @@
 </div>
 
         
-##
 
-## Redes sociais
 
+<h1>Redes sociais</h1>
 <div>
     <a href="mailto:dougllassillva27@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
@@ -25,19 +23,9 @@
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
     </a>
 </div>
+<br>
 
 
-<!--
-**dougllassillva27/dougllassillva27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Atualmente trabalho como Analisa de Suporte Pleno
+- 🌱 Estou começando a estudar HTML, CSS e Javascript
+- 😄 Pronomes: Ele/dele
