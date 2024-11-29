@@ -3,9 +3,11 @@
 <div>
     <a href="https://github.com/dougllassillva27">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dougllassillva27&show_icons=true&theme=dark">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dougllassillva27&theme=dark">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dougllassillva27&theme=dark">
 </div>
+        
 ##
+
 <div>
     <a href="https://www.linkedin.com/in/douglas-silva-27/" target="_blank" img scr="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
