@@ -2,15 +2,19 @@
 
 <div>
     <a href="https://github.com/dougllassillva27">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=dougllassillva27&show_icons=true&theme=dark">
-    <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dougllassillva27&theme=dark">
+        <img height="160em" src="https://github-readme-stats.vercel.app/api?username=dougllassillva27&show_icons=true&theme=dark" style="display: inline-block; margin-right: 10px;">
+    </a>
+    <a href="https://github.com/dougllassillva27">
+        <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dougllassillva27&theme=dark" style="display: inline-block;">
+    </a>
 </div>
+
         
 ##
 
 <div>
-    <a href="https://www.linkedin.com/in/douglas-silva-27/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a>
-    <a href="mailto:dougllassillva27@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /> </a>
+    <a href="https://www.linkedin.com/in/douglas-silva-27/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="mailto:dougllassillva27@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 </div>
 
 <!--
