@@ -1,4 +1,4 @@
-<h1>Olá! Eu sou o Douglas Silva</h1>
+<h1>💻 Douglas Silva</h1>
 <div>
     <a href="https://github.com/dougllassillva27">
         <img height="160em" src="https://github-readme-stats.vercel.app/api?username=dougllassillva27&show_icons=true&theme=dark" style="display: inline-block; margin-right: 10px;">
