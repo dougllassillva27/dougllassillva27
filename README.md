@@ -6,11 +6,6 @@
 
 ###
 
-<!--    <a href="https://github.com/dougllassillva27">
-        <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dougllassillva27&theme=dark" style="display: inline-block;">
-    </a>-->
-</div>
-
 <h1>Redes sociais</h1>
 <div>
     <a href="mailto:dougllassillva27@gmail.com" target="_blank">
