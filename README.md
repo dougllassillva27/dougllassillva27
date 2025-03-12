@@ -7,8 +7,6 @@
 
 ###
 
-    </a>
-
 <!--    <a href="https://github.com/dougllassillva27">
         <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dougllassillva27&theme=dark" style="display: inline-block;">
     </a>-->
