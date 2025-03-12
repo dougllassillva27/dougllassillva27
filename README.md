@@ -1,15 +1,18 @@
 <h1>💻 Douglas Silva</h1>
 <div>
     <a href="https://github.com/dougllassillva27">
-        <img height="160em" src="https://github-readme-stats.vercel.app/api?username=dougllassillva27&show_icons=true&theme=dark" style="display: inline-block; margin-right: 10px;">
+        <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dougllassillva27&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+</div>
+
+###
+
     </a>
+
 <!--    <a href="https://github.com/dougllassillva27">
         <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dougllassillva27&theme=dark" style="display: inline-block;">
     </a>-->
 </div>
-
-        
-
 
 <h1>Redes sociais</h1>
 <div>
@@ -24,7 +27,6 @@
     </a>
 </div>
 <br>
-
 
 - 🔭 Atualmente trabalho como Analista de Suporte Pleno
 - 🌱 Estou começando a estudar HTML, CSS e Javascript
