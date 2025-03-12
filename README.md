@@ -28,3 +28,7 @@
 
 - 🔭 Atualmente trabalho como Analista de Suporte Pleno
 - 🌱 Estou começando a estudar HTML, CSS e Javascript
+
+<img src="https://raw.githubusercontent.com/dougllassillva27/dougllassillva27/output/snake.svg" alt="Snake animation" />
+
+###
