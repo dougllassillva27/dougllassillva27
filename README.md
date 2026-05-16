@@ -9,10 +9,11 @@
 
 ### 📊 Minhas Estatísticas do GitHub
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dougllassillva27&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dougllassillva27&layout=compact&langs_count=7&theme=dracula" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dougllassillva27&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas de Douglas" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dougllassillva27&layout=compact&langs_count=7&theme=dracula" alt="Linguagens mais usadas" />
+</div>
 
 ---
 
