@@ -1,12 +1,13 @@
 <div align="center">
 
 # 🚀 Douglas Silva
-### **Desenvolvedor Júnior · Automação & IA**
+### **Estudante de ADS · Automação & IA**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C7B7&center=true&vCenter=true&width=435&lines=Desenvolvedor+J%C3%BAnior;Automa%C3%A7%C3%A3o+%26+IA;JavaScript+%E2%80%A2+Node.js+%E2%80%A2+Python;APIs+e+Integra%C3%A7%C3%B5es" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C7B7&center=true&vCenter=true&width=435&lines=Em+transi%C3%A7%C3%A3o+para+Desenvolvimento;JavaScript+%E2%80%A2+Node.js+%E2%80%A2+Python;Automa%C3%A7%C3%A3o+e+Integra%C3%A7%C3%B5es;Solu%C3%A7%C3%B5es+com+IA" alt="Typing SVG" />
 
-Cursando **Análise e Desenvolvimento de Sistemas**, com 10 anos de experiência em software corporativo.
-Hoje foco em desenvolvimento back-end, automação de processos e soluções com Inteligência Artificial.
+Cursando **Análise e Desenvolvimento de Sistemas** e em transição de carreira para desenvolvimento.
+Ao longo de 10 anos em software corporativo, trabalhei com diagnóstico técnico, bancos de dados e
+automação de processos — hoje aplico isso em projetos próprios com JavaScript, Node.js e Inteligência Artificial.
 
 ---
 
